@@ -11,3 +11,18 @@ article {
     display: block;
 
 }
+
+/* The sidebar menu */
+.sidebar {
+    /*height: 100%;*/ 
+    width: 450px; 
+    position: fixed; 
+    z-index: 1;
+    top: 12%;
+    right: 0;
+    background-color: #2D3748;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+
